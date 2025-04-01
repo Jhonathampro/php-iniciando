@@ -4,6 +4,7 @@ $filme = "Vingadores";
 $ano = 0;
 $cont = 1;
 
+
 echo "para começar o jogo digite a quantindade de tentativas";
 $tentativaFixa = (int) fgets(STDIN);
 
